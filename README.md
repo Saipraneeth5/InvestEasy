@@ -199,11 +199,11 @@ Add screenshots of:
 
 ### Frontend
 
-[InvestEasy Frontend Repository]
+[[InvestEasy Frontend Repository]](https://github.com/Saipraneeth5/InvestEasy-frontend)
 
 ### Backend
 
-[InvestEasy Backend Repository]
+[[InvestEasy Backend Repository]](https://github.com/Saipraneeth5/InvestEasy-backend)
 
 ---
 
